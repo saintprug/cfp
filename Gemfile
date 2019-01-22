@@ -21,5 +21,6 @@ gem 'sinatra'
 gem 'omniauth'
 gem 'omniauth-oauth2'
 gem 'omniauth-github'
+gem 'capistrano'
 
 gem 'iodine'
